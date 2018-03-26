@@ -1,7 +1,7 @@
 # Conceptos básicos
 Aquí veremos lo básico para conover el framework Vue2 y ser capaces de utilizarlo como plataforma de desarrollo de aplicaciones web.
 
-Este material está basado en la [guía oficial de Vue2](https://vuejs.org/v2/guide/) y veremos además los servicios de vue-router y axios entre otros.
+Este material está basado en la [guía oficial de Vue2](https://vuejs.org/v2/guide/){:target="_blank"} y veremos además los servicios de vue-router y axios entre otros.
 
 Vue es un framework progresivo para la construcción de interfaces de usuario desde el lado del cliente. Lo de framework
 "progresivo" significa que está diseñado para ser crecer: su núcleo está enfocado sólo en la capa de visualización (como React) pero es fácil añadirle otras bibliotecas o proyectos existentes (algunos desarrollados por el mismo equipo de Vue) que nos permitan crear incluso complejas SPA.
