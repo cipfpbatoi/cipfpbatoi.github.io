@@ -1,6 +1,5 @@
-# Desarrollo Web en entorno Cliente
-Explicación del módulo y su importancia
+# Desarrollo de Aplicaciones Web
 
-## Bloques
-* JS
-* [Vue JS](03-vue)
+## Módulos
+* [Desarrollo Web en entorno Cliente](dwc) (DWC)
+* ...
