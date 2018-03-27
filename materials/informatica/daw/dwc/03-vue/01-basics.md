@@ -34,6 +34,8 @@ podremos fácilmmente incluir otras bibliotecas, trabajar con componentes o cons
 ## Hello World
 Vamos a ver cómo se hace una página con Vue viendo un [ejemplo en JSFiddle](https://jsfiddle.net/chrisvfritz/50wL7mdz/).
 
+<script async src="//jsfiddle.net/juansegura/psk853hL/embed/"></script>
+
 ### HTML
 En en HTML debemos vincular los scripts de la librería de Vue y de nuestro código. 
 
