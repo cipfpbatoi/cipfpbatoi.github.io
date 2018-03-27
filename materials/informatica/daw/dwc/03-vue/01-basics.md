@@ -36,6 +36,8 @@ Vamos a ver cómo se hace una página con Vue viendo un [ejemplo en JSFiddle](ht
 
 <script async src="//jsfiddle.net/juansegura/psk853hL/embed/"></script>
 
+<iframe width="100%" height="300" src="//jsfiddle.net/juansegura/psk853hL/embedded/" allowpaymentrequest allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
 ### HTML
 En en HTML debemos vincular los scripts de la librería de Vue y de nuestro código. 
 
