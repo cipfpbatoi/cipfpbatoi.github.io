@@ -34,7 +34,7 @@ podremos fácilmmente incluir otras bibliotecas, trabajar con componentes o cons
 ## Hello World
 Vamos a ver cómo se hace una página con Vue viendo un [ejemplo en JSFiddle](https://jsfiddle.net/chrisvfritz/50wL7mdz/).
 
-<script async src="//jsfiddle.net/juansegura/psk853hL/3/embed/js,html,result/"></script>
+<script async src="//jsfiddle.net/juansegura/psk853hL/embed/js,html,result/"></script>
 
 <iframe width="100%" height="300" src="//jsfiddle.net/juansegura/psk853hL/3/embedded/js,html,result/" allowpaymentrequest allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
