@@ -5,4 +5,6 @@
   * Grau Superior
     * Administració de Sistemes Informàtics i Xarxes (ASIX)
     * Desenvolupament d'Aplicacions Multiplataforma (DAM)
-    * [Desenvolupament d'Aplicacions Web](materials/informatica/daw) (DAW)
+    * Desenvolupament d'Aplicacions Web (DAW)
+
+[Materials](./materials) dels cicles.
