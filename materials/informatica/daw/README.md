@@ -3,4 +3,4 @@
 ## Módulos
 
 * [Desarrollo Web en entorno Cliente](dwc) (DWC)
-* [Entornos de Desarrollo](dwc) (ED)
+* [Entornos de Desarrollo](ed) (ED)
